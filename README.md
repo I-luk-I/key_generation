@@ -1,1 +1,1 @@
-# key_generation
+Implementation of key generation in Rust
